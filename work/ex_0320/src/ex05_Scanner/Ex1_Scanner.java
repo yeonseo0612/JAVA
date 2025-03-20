@@ -25,16 +25,40 @@ public class Ex1_Scanner {
 		//나이입력받기
 		//제 나이는 x세 입니다
 		
-		System.out.print("나이 입력: ");
-		int age = sc.nextInt();
-		System.out.print("이름 입력: ");
-		String name =sc.next();// 띄어쓰기를 해버리면 끝남
-		sc.nextLine();//엔터값을 대신 가져감
-		System.out.print("주소 입력: \n");
-		String address =sc.nextLine();//엔터치면 끝남
-		System.out.printf("제 이름은 %s이고 나이는 %d세 입니다 거주지는 %s입니다.",name ,age,address);
+//		System.out.print("나이 입력: ");
+//		int age = sc.nextInt();
+//		System.out.print("이름 입력: ");
+//		String name =sc.next();// 띄어쓰기를 해버리면 끝남
+//		sc.nextLine();//엔터값을 대신 가져감
+//		System.out.print("주소 입력: \n");
+//		String address =sc.nextLine();//엔터치면 끝남
+//		System.out.printf("제 이름은 %s이고 나이는 %d세 입니다 거주지는 %s입니다.",name ,age,address);
+//		
+	
+		
+		int ko;
+		int math;
+		int eng;
+		
+		int result;
+		
+		System.out.print("국어점수를 입력하시오: ");
+		ko = sc.nextInt();
+		System.out.print("수학점수를 입력하시오: ");
+		math = sc.nextInt();
+		System.out.print("영어점수를 입력하시오: ");
+		eng = sc.nextInt();
+		System.out.println((int)((ko + math + eng)/3.0));
 		
 	
+		
+		
+		
+		
+		
+		
+		
+		
 		
 	}
 

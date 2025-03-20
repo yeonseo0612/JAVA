@@ -45,8 +45,26 @@ public class Ex03_Operator {
 		//조건식? 참일 때 실행할 명령 : 거짓일때 실행할 명령;
 		int i = 10;
 		int i2 = 15;
-		result = ++i >= i2? 1:0; // 앞의 조건식을 통해 t or f 값을 얻어온 후 각 해당되는 명령 반환
+		result = ++i >= i2? 1:0; // 앞의 조건식을 통해 t or f 값을 얻어온 후 각 해당되는 명령 반
 		System.out.println("result :" + result);
+		
+		int x1 =5;
+		int y1 =x1++;
+		
+		System.out.println(x1);
+		System.out.println(y1);
+		
+		int a8= 10;
+		int b8 = 12;
+		
+		//++a >= b || 2 + 7 <= b && 13-b > = 0 && (a += b)-(a%b)> 10);
+		System.out.println(++a8 >= b8 || 2 + 7 <= b8 && 13-b8 >= 0 && (a8 += b8)-(a8%b8)> 10);
+		// 11 >= 12 || 9 <= 12 && 1 >= 0 && 20>10
+		//   false  ||  true && true && true
+		//                        true
+		//   false ||    true
+		// true
+		
 	}
 
 }
