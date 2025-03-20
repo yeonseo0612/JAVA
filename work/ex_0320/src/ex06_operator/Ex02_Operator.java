@@ -76,7 +76,7 @@ public class Ex02_Operator {
 		res = (limit-myAge) >=5 || myAge>30;
 		System.out.println("연산결과 : " + !res);
 		
-		
+	
 	}
 
 }
