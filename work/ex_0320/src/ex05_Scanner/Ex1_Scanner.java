@@ -36,34 +36,6 @@ public class Ex1_Scanner {
 //		
 	
 		
-		int ko;
-		int math;
-		int eng;
-		
-		int result;
-		
-	
-		
-		System.out.print("국어점수를 입력하시오: ");
-		ko = sc.nextInt();
-		System.out.print("수학점수를 입력하시오: ");
-		math = sc.nextInt();
-		System.out.print("영어점수를 입력하시오: ");
-		eng = sc.nextInt();
-		
-		System.out.println("평균 : "+ (int)((ko + math + eng)/3.0));
-		
-		result = (ko+math+eng)/3;
-		
-		String pass = "합격";
-		String no_pass = "불합격"	;
-		
-		
-		if((ko >= 40 && math >=40 && eng >=40) && result >= 60){
-			System.out.println("합격여부 :"+ pass);
-		}else {
-			System.out.println("합격여부 :"+ no_pass);
-		}
 	
 		
 		
