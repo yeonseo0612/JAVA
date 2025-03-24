@@ -108,6 +108,7 @@ public class Ex02_Arrays {
 		iArr_1[1][1] = 5;
 		iArr_1[1][2] = 6;
 		
+		System.out.println(iArr_1[0]);
 		
 	}
 }
