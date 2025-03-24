@@ -74,7 +74,7 @@ public class Ex02_do_while {
 					eng = sc.nextInt();
 					math = sc.nextInt();
 					
-				} 	0
+				} 	
 			}while(pass);
 			System.out.println("통과");
 			
