@@ -152,14 +152,20 @@ public class Exam1 {
 			     money %= coin[i];
 			}
 			
+			//로또 번호 생성기
+			//1. 1~45사이의 난수를 추출한다.
+			//2. 배열에 넣는다.
+			//3. 배열의 다른 값들과 비교하여 중복되면 다시 뽑는다.
+			
 			int[] lotto = new int[6];
 			outer : for(int i = 0; i < lotto.length;){
-				lotto[i] = new Random().nextInt(45) + 1;
-			
+				lotto[i] = new Random().nextInt(45) + 1;// 난수 생성하여 배열에 넣기
+				//배열에서 중복값을 찾는 반복문
 				for(int j = 0; j < i; j++){
+					
 					if(lotto[i] == lotto[j]){
 						continue outer;
-					}					
+					}
 				}
 				System.out.print(lotto[i] + " ");
 				i++;						

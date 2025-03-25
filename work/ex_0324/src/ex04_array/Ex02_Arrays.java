@@ -110,5 +110,7 @@ public class Ex02_Arrays {
 		
 		System.out.println(iArr_1[0]);
 		
+		
+		
 	}
 }
