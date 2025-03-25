@@ -65,22 +65,24 @@ public class MethodTest {
 		Scanner sc = new Scanner(System.in);
 		Random r = new Random();
 		int random = r.nextInt(50)+1;
-		
+		int count = 0;
 		   do {
 	          
 	            if (num > random) {
 	                System.out.println("Down!");
 	                System.out.print("숫자를 다시 입력하세요: ");
 	                num = sc.nextInt();
+	                count++;
 	            } else if (num < random) {
 	                System.out.println("Up!");
 	                System.out.print("숫자를 다시 입력하세요: ");
 	                num = sc.nextInt();
+	                count++;
 	            }
 	            
 	        } while (num != random);
 		   
-	        System.out.println("정답입니다! 랜덤 숫자는 " + random + "이었습니다.");
+	        System.out.println("정답입니다! 랜덤 숫자는 " + random + "이었습니다." + "도전횟수 : "+ count);
 			
 	}
 	
