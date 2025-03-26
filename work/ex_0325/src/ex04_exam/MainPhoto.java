@@ -1,5 +1,6 @@
 package ex04_exam;
 
+import java.util.Arrays;
 import java.util.Random;
 
 public class MainPhoto {
@@ -8,20 +9,25 @@ public class MainPhoto {
 		int[] num = new int[100];
 		
 		int[] count = new int[10];
+		
+		//100개의 공간에 난수를 할당
 			for(int i = 0; i < num.length; i++){
-			
-	
-		System.out.print(num[i] = new Random().nextInt(10));
+				num[i] = new Random().nextInt(10);
 		}
 			System.out.println();
 			for(int i = 0; i < num.length; i++){
 			count[num[i]]++;
+			}
+			System.out.println(Arrays.toString(count));
+				
 			PrintGraph pg = new PrintGraph();
-				for(int j = 0; j < count.length; j++){
-					System.out.println(i + "의 갯수 : " + pg.print('#', count[j]) + " " + count[j]);
-		        }	
+					for(int i = 0 ; i < count.length; i++) {
+						System.out.printf("%d의 개수 : %s %d\n ",i,pg.print('#', count[i]),count[i]);
+					}
+			
+				
 
 	}
 
 	}
-	}
+	

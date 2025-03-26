@@ -2,11 +2,10 @@ package ex04_exam;
 
 public class PrintGraph {
 	public String print(char ch, int num){
-		char[] val = new char[num];
 		String str = "";
-	for(int i = 0; i < val.length; i++){
+	for(int i = 0; i < num; i++){
 	
-str += val[i] = ch;
+		str += ch;
 }
 		return str;
 	}
