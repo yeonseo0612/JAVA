@@ -83,6 +83,8 @@ public class MethodTest {
 	        } while (num != random);
 		   
 	        System.out.println("정답입니다! 랜덤 숫자는 " + random + "이었습니다." + "도전횟수 : "+ count);
+	        
+	        
 			
 	}
 	
