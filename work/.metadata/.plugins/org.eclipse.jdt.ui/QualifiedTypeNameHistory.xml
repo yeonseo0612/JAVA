@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="ex03_class.Student"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="ex04_exam.PrintGraph"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ex04_exam.UserInfo"/>
+    <fullyQualifiedTypeName name="ex04_exam.BankMain"/>
+    <fullyQualifiedTypeName name="ex04_overloading.RectangleCalculator"/>
+    <fullyQualifiedTypeName name="ex04_overloading.Converter"/>
+    <fullyQualifiedTypeName name="ex05_interface.DefaultA"/>
+    <fullyQualifiedTypeName name="ex06_inheritances.SchoolBus"/>
+    <fullyQualifiedTypeName name="ex_01_inheritance.Chiwawa"/>
+    <fullyQualifiedTypeName name="exam1.CalPlus"/>
+    <fullyQualifiedTypeName name="exam1.CalMinus"/>
+    <fullyQualifiedTypeName name="exam1.HybridCar"/>
+    <fullyQualifiedTypeName name="exam1.HybridWaterCar"/>
+    <fullyQualifiedTypeName name="exam1.Car"/>
+    <fullyQualifiedTypeName name="ex02_class_casting.Parent"/>
+    <fullyQualifiedTypeName name="ex02_class_casting.Child"/>
+    <fullyQualifiedTypeName name="ex02_class_casting.Car"/>
+    <fullyQualifiedTypeName name="ex02_class_casting.DeskCalender"/>
+    <fullyQualifiedTypeName name="ex03_Polymorphism.ComputerRoom"/>
+    <fullyQualifiedTypeName name="ex03_Polymorphism.Animal"/>
+    <fullyQualifiedTypeName name="exam1.Calculator"/>
+    <fullyQualifiedTypeName name="ex03_Polymorphism.Calculator"/>
+    <fullyQualifiedTypeName name="ex04_interface.kitchen"/>
 </qualifiedTypeNameHistroy>
