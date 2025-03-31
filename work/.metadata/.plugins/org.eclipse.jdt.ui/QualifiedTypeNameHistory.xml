@@ -3,9 +3,7 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="ex03_class.Student"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="ex04_exam.PrintGraph"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="ex04_exam.UserInfo"/>
     <fullyQualifiedTypeName name="ex04_exam.BankMain"/>
     <fullyQualifiedTypeName name="ex04_overloading.RectangleCalculator"/>
@@ -27,4 +25,26 @@
     <fullyQualifiedTypeName name="exam1.Calculator"/>
     <fullyQualifiedTypeName name="ex03_Polymorphism.Calculator"/>
     <fullyQualifiedTypeName name="ex04_interface.kitchen"/>
+    <fullyQualifiedTypeName name="ex01_innerClass.Car.Engine"/>
+    <fullyQualifiedTypeName name="ex01_innerClass.PrintOut"/>
+    <fullyQualifiedTypeName name="ex01_innerClass.PrintOut.Out"/>
+    <fullyQualifiedTypeName name="Unit"/>
+    <fullyQualifiedTypeName name="ex01_innerClass.LocalClassEaxmple"/>
+    <fullyQualifiedTypeName name="LineCounter"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="ex01_innerClass.FileProcessor"/>
+    <fullyQualifiedTypeName name="ex01_innerClass.PermitExample"/>
+    <fullyQualifiedTypeName name="ex01_innerClass.PermitExample.InClass"/>
+    <fullyQualifiedTypeName name="ex01_innerClass.Student"/>
+    <fullyQualifiedTypeName name="ex01_innerClass.AnonymousExample"/>
+    <fullyQualifiedTypeName name="ex01_innerClass.ButtonImp1"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="ex03_try_catch.Ex02_try_catch"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ex04_api.Book"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
 </qualifiedTypeNameHistroy>
