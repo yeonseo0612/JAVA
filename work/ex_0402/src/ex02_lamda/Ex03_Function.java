@@ -8,6 +8,16 @@ public class Ex03_Function {
 	public static void main(String[] args) {
 		//컬렉션 프레임워크의 인터페이스에 일부는 함수형 인터페이스를 사용한다.
 		
+		//람다식을 반환값에 넣는다.
+		
+//				Iminus im = makeFunction();
+//				int res = im.sub(3, 1);
+//				System.out.println(res);
+//			}
+//			
+//			public static Iminus makeFunction() {
+//				return (x,y) -> x - y;
+//			}
 		
 		ArrayList<String> list = new ArrayList<>();
 		

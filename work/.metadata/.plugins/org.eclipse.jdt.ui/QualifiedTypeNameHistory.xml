@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="exam1.CalMinus"/>
-    <fullyQualifiedTypeName name="exam1.HybridCar"/>
-    <fullyQualifiedTypeName name="exam1.HybridWaterCar"/>
-    <fullyQualifiedTypeName name="exam1.Car"/>
-    <fullyQualifiedTypeName name="ex02_class_casting.Parent"/>
-    <fullyQualifiedTypeName name="ex02_class_casting.Child"/>
-    <fullyQualifiedTypeName name="ex02_class_casting.Car"/>
-    <fullyQualifiedTypeName name="ex02_class_casting.DeskCalender"/>
     <fullyQualifiedTypeName name="ex03_Polymorphism.ComputerRoom"/>
     <fullyQualifiedTypeName name="ex03_Polymorphism.Animal"/>
     <fullyQualifiedTypeName name="exam1.Calculator"/>
@@ -55,9 +47,17 @@
     <fullyQualifiedTypeName name="EX06_List.PersonFunction"/>
     <fullyQualifiedTypeName name="EX06_List.PersonMain"/>
     <fullyQualifiedTypeName name="EX06_List.PersonInfo"/>
-    <fullyQualifiedTypeName name="java.util.HashSet"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.awt.font.NumericShaper"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="ex01_Collections.Student"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="ex02_lamda.CalculatorImpl"/>
+    <fullyQualifiedTypeName name="ex02_lamda.FunctionExam"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
