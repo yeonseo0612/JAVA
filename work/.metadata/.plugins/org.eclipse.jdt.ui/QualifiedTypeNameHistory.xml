@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ex03_Polymorphism.ComputerRoom"/>
-    <fullyQualifiedTypeName name="ex03_Polymorphism.Animal"/>
-    <fullyQualifiedTypeName name="exam1.Calculator"/>
-    <fullyQualifiedTypeName name="ex03_Polymorphism.Calculator"/>
-    <fullyQualifiedTypeName name="ex04_interface.kitchen"/>
     <fullyQualifiedTypeName name="ex01_innerClass.Car.Engine"/>
     <fullyQualifiedTypeName name="ex01_innerClass.PrintOut"/>
     <fullyQualifiedTypeName name="ex01_innerClass.PrintOut.Out"/>
     <fullyQualifiedTypeName name="Unit"/>
     <fullyQualifiedTypeName name="ex01_innerClass.LocalClassEaxmple"/>
     <fullyQualifiedTypeName name="LineCounter"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="ex01_innerClass.FileProcessor"/>
     <fullyQualifiedTypeName name="ex01_innerClass.PermitExample"/>
     <fullyQualifiedTypeName name="ex01_innerClass.PermitExample.InClass"/>
@@ -34,7 +28,6 @@
     <fullyQualifiedTypeName name="ex05_Generic.Fruit"/>
     <fullyQualifiedTypeName name="ex05_Generic.FruitBox"/>
     <fullyQualifiedTypeName name="ex05_Generic.FruitBox2"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="ex05_Generic.Calculator"/>
     <fullyQualifiedTypeName name="EX06_List.Ex01_ArrayList"/>
@@ -53,11 +46,18 @@
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.awt.font.NumericShaper"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="ex01_Collections.Student"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="ex02_lamda.CalculatorImpl"/>
     <fullyQualifiedTypeName name="ex02_lamda.FunctionExam"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="ex01_lamda.Greeting"/>
+    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
