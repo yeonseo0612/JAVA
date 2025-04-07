@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ex01_innerClass.Car.Engine"/>
-    <fullyQualifiedTypeName name="ex01_innerClass.PrintOut"/>
-    <fullyQualifiedTypeName name="ex01_innerClass.PrintOut.Out"/>
-    <fullyQualifiedTypeName name="Unit"/>
-    <fullyQualifiedTypeName name="ex01_innerClass.LocalClassEaxmple"/>
-    <fullyQualifiedTypeName name="LineCounter"/>
-    <fullyQualifiedTypeName name="ex01_innerClass.FileProcessor"/>
-    <fullyQualifiedTypeName name="ex01_innerClass.PermitExample"/>
-    <fullyQualifiedTypeName name="ex01_innerClass.PermitExample.InClass"/>
-    <fullyQualifiedTypeName name="ex01_innerClass.Student"/>
     <fullyQualifiedTypeName name="ex01_innerClass.AnonymousExample"/>
     <fullyQualifiedTypeName name="ex01_innerClass.ButtonImp1"/>
     <fullyQualifiedTypeName name="ex03_try_catch.Ex02_try_catch"/>
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="ex04_api.Book"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
@@ -54,10 +43,21 @@
     <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="java.util.function.Predicate"/>
     <fullyQualifiedTypeName name="ex01_lamda.Greeting"/>
-    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+    <fullyQualifiedTypeName name="java.util.OptionalDouble"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collector"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="ex01_Stream.Student"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="ex02_Thread.ThreadName"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
