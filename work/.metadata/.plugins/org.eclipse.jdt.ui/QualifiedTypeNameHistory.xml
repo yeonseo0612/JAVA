@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ex01_innerClass.AnonymousExample"/>
-    <fullyQualifiedTypeName name="ex01_innerClass.ButtonImp1"/>
-    <fullyQualifiedTypeName name="ex03_try_catch.Ex02_try_catch"/>
-    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="ex04_api.Book"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
@@ -60,4 +55,9 @@
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="ex02_Thread.ThreadName"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ex01_ThreadMethod.JoinExample"/>
+    <fullyQualifiedTypeName name="ex01_ThreadMethod.YieldExample"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="ex02_synchronized.SynchronizedEx"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>

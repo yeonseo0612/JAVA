@@ -3,6 +3,10 @@ package ex02_synchronized;
 public class SynchronizedEx implements Runnable {
 	private long money = 10000;
 	
+	//클래스에 대한 정보를 담을 수 있다.
+//	Class cls = SynchronizedEx.class;
+	
+	
 	@Override
 	public void run() {
 		// TODO Auto-generated method stub\
@@ -21,7 +25,7 @@ public class SynchronizedEx implements Runnable {
 				if(getMoney() <= 0) {
 					break;
 				}
-				outMoney(1000);
+				outMoney(1000);//메서드 호출
 			}
 		}
 	}
