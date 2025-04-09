@@ -26,7 +26,7 @@ public class Exam1 {
 						str+=res.charAt(i);
 					}//for
 					if(res.equals(str)) {
-						System.out.println(res + "는 회문수입니다");
+						System.out.println(res + "는 회문입니다");
 					} else {
 						System.out.println(res + "는 회문이 아닙니다");
 					}
