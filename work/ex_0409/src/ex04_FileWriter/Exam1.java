@@ -14,6 +14,7 @@ public class Exam1 {
 		Scanner sc = new Scanner(System.in);
 		FileOutputStream fos = null;
 		FileWriter fw = null;
+		
 		while(true) {
 			try {
 				System.out.println("메모입력 (exit 입력시 종료)");
@@ -27,10 +28,13 @@ public class Exam1 {
 				fos = new FileOutputStream("D:\\JAVA\\memo.txt");
 				
 				fos.write((userInput+"\n").getBytes());
+				
+				
 			} catch (Exception e) {
 				// TODO: handle exception
 			}
 		}
+		System.out.println("저장완료");
 		
 	}
 }
