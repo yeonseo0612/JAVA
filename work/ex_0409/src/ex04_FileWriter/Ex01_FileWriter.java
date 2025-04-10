@@ -10,7 +10,15 @@ public class Ex01_FileWriter {
 		FileWriter fw = null;
 		
 		try {
-			fw = new FileWriter("D:\\JAVA");
+			fw = new FileWriter("D:\\JAVA\\FileWriter예제.txt");
+			
+			String str = "hi";
+			
+			fw.write(" 첫번째 줄 \n");
+			fw.write(" 두번째 줄 \n");
+			
+			
+			fw.close();
 		} catch (Exception e) {
 			// TODO: handle exception
 		}
