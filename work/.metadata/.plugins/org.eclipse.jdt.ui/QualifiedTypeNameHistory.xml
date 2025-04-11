@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
-    <fullyQualifiedTypeName name="ex05_Generic.Fruit"/>
-    <fullyQualifiedTypeName name="ex05_Generic.FruitBox"/>
-    <fullyQualifiedTypeName name="ex05_Generic.FruitBox2"/>
-    <fullyQualifiedTypeName name="java.lang.Double"/>
-    <fullyQualifiedTypeName name="ex05_Generic.Calculator"/>
-    <fullyQualifiedTypeName name="EX06_List.Ex01_ArrayList"/>
-    <fullyQualifiedTypeName name="EX06_List.Ex02_LinkedList"/>
-    <fullyQualifiedTypeName name="java.lang.LinkageError"/>
-    <fullyQualifiedTypeName name="EX06_List.Person"/>
-    <fullyQualifiedTypeName name="EX06_List.Products"/>
     <fullyQualifiedTypeName name="EX06_List.UserInfo"/>
     <fullyQualifiedTypeName name="EX06_List.MenuItem"/>
     <fullyQualifiedTypeName name="EX06_List.PersonFunction"/>
     <fullyQualifiedTypeName name="EX06_List.PersonMain"/>
     <fullyQualifiedTypeName name="EX06_List.PersonInfo"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
-    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
@@ -30,7 +18,6 @@
     <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="java.util.function.Predicate"/>
     <fullyQualifiedTypeName name="ex01_lamda.Greeting"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
@@ -45,7 +32,6 @@
     <fullyQualifiedTypeName name="ex01_Stream.Student"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="ex02_Thread.ThreadName"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="ex01_ThreadMethod.JoinExample"/>
     <fullyQualifiedTypeName name="ex01_ThreadMethod.YieldExample"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
@@ -55,9 +41,23 @@
     <fullyQualifiedTypeName name="ex01_Thread.MyDaemonRunnable"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.io.File"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
     <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicTreeUI.TreeToggleAction"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="ex05_enum.Transportation"/>
+    <fullyQualifiedTypeName name="ex05_enum.Weekday"/>
+    <fullyQualifiedTypeName name="ex05_enum.Operation"/>
+    <fullyQualifiedTypeName name="ex05_enum.OrderStatus"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.SuppressWarnings"/>
+    <fullyQualifiedTypeName name="java.lang.Deprecated"/>
+    <fullyQualifiedTypeName name="ex06_annotation.TestInfo"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
 </qualifiedTypeNameHistroy>

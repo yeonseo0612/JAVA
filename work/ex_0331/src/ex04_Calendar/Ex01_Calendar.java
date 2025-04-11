@@ -11,7 +11,7 @@ public class Ex01_Calendar {
 		
 		//Calendar cal = new Calendar();
 		Calendar cal = Calendar.getInstance();
-		
+		//  생성자를 직접 호출하는 것이 아닌 getInstance();라는 메서드를 통해 이미 만들어진객체를 불러올 수 있다.
 		int year = cal.get(Calendar.YEAR);
 		int month = cal.get(Calendar.MONTH)+1;
 		int day = cal.get(Calendar.DAY_OF_MONTH);
