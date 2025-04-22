@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="EX06_List.UserInfo"/>
-    <fullyQualifiedTypeName name="EX06_List.MenuItem"/>
-    <fullyQualifiedTypeName name="EX06_List.PersonFunction"/>
-    <fullyQualifiedTypeName name="EX06_List.PersonMain"/>
-    <fullyQualifiedTypeName name="EX06_List.PersonInfo"/>
-    <fullyQualifiedTypeName name="java.util.Iterator"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="java.util.Map"/>
-    <fullyQualifiedTypeName name="java.util.Collections"/>
-    <fullyQualifiedTypeName name="java.awt.font.NumericShaper"/>
-    <fullyQualifiedTypeName name="ex01_Collections.Student"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="ex02_lamda.CalculatorImpl"/>
     <fullyQualifiedTypeName name="ex02_lamda.FunctionExam"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="java.util.function.Function"/>
@@ -25,7 +12,6 @@
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
     <fullyQualifiedTypeName name="java.util.OptionalDouble"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.stream.Collector"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="java.util.stream.Stream"/>
@@ -48,7 +34,6 @@
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicTreeUI.TreeToggleAction"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="ex05_enum.Transportation"/>
     <fullyQualifiedTypeName name="ex05_enum.Weekday"/>
     <fullyQualifiedTypeName name="ex05_enum.Operation"/>
@@ -60,4 +45,19 @@
     <fullyQualifiedTypeName name="java.lang.Deprecated"/>
     <fullyQualifiedTypeName name="ex06_annotation.TestInfo"/>
     <fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
+    <fullyQualifiedTypeName name="ex06_annotation.Ex02_Annotation"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Annotation"/>
+    <fullyQualifiedTypeName name="ex01_Reflection.Ex02_Annotation"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="ec02_db.DBUtil"/>
+    <fullyQualifiedTypeName name="ec02_db.EmpMethod"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="ec02_db.Emp"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="ec02_db.Person"/>
+    <fullyQualifiedTypeName name="ec02_db.PersonMethod"/>
 </qualifiedTypeNameHistroy>
